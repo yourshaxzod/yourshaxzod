@@ -1,12 +1,10 @@
 <h1 align="center">Hey there, I'm Shaxzod!</h1>
 <p align="center">
-  <strong>Back-end Developer</strong><br>
-  I design and build scalable back-end systems, clean APIs and reliable infrastructure.
+  <strong>Back-end Developer · Automation Engineer · DevOps Learner</strong><br>
+  I build back-end systems that are scalable, automate processes, and integrate seamlessly with modern infrastructure.
 </p>
 
 <hr />
-
-### 🛠️ Tech Stack
 
 - **Back-end:** PHP, Python  
 - **Front-end:** TypeScript Next.js, React.js, TailwindCSS, Framer Motion  

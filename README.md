@@ -7,7 +7,7 @@
 <hr />
 
 - **Back-end:** PHP, Python  
-- **Front-end:** TypeScript Next.js, React.js, TailwindCSS, Framer Motion  
+- **Front-end:** TypeScript, Next.js, React.js, TailwindCSS, Framer Motion  
 - **Database:** PostgreSQL, MySQL  
 - **Other:** Git, Docker, Linux
 

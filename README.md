@@ -6,10 +6,10 @@
 
 <hr />
 
-- **Back-end:** PHP, Python  
-- **Front-end:** TypeScript, Next.js, React, Tailwind CSS, Framer Motion  
-- **Database:** PostgreSQL, MySQL  
-- **Other:** Git, Docker, Linux
+- **Back-end:** PHP · Python  
+- **Front-end:** TypeScript · Next.js · React · Tailwind CSS · Framer Motion  
+- **Database:** PostgreSQL · MySQL  
+- **Other:** Git · Docker · Linux · C
 
 ---
 

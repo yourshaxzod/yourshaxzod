@@ -1,15 +1,17 @@
-<h1 align="center">Hey there, I'm Shaxzod!</h1>
+<h1 align="center">Hi, I'm Shaxzod!</h1>
 <p align="center">
-  <strong>Back-end Developer · Automation Engineer · DevOps Learner</strong><br>
-  I build back-end systems that are scalable, automate processes, and integrate seamlessly with modern infrastructure.
+  <strong>Back-end Developer · Exploring DevOps & Data Analytics</strong><br>
+  I build scalable back-end systems that automate processes and integrate seamlessly with modern infrastructure.
 </p>
 
 <hr />
 
-- **Back-end:** PHP · Node.js
-- **Front-end:** TypeScript · Next.js · React · Tailwind CSS · Framer Motion  
-- **Database:** PostgreSQL · MySQL  
-- **Other:** Git · Docker · Linux · C
+<ul>
+  <li><strong>Back-end:</strong> PHP, Node.js</li>
+  <li><strong>Front-end:</strong> TypeScript, Next.js, React, Tailwind CSS, Framer Motion</li>
+  <li><strong>Database:</strong> PostgreSQL, MySQL</li>
+  <li><strong>Other:</strong> Git, Docker, Linux, C</li>
+</ul>
 
 ---
 

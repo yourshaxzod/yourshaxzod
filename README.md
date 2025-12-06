@@ -6,14 +6,6 @@
 
 <hr/>
 
-<ul>
-  <li><strong>Back-end:</strong> PHP, Node.js</li>
-  <li><strong>Front-end:</strong> Next.js, React, Tailwind CSS, Framer Motion</li>
-  <li><strong>Database:</strong> PostgreSQL, MySQL</li>
-  <li><strong>Other:</strong> Git, Docker, Linux, C</li>
-  <li><strong>Fun fact:</strong> I know Node.js and Python, but I love writing PHP.</li>
-</ul>
-
 ---
 
 <div align="center">

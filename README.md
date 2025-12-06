@@ -6,6 +6,6 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center"> -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yourshaxzod&theme=graywhite&hide_border=false" height="800" />
-</div>
+<!-- </div> -->

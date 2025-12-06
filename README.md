@@ -7,6 +7,5 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourshaxzod&show_icons=true&theme=graywhite&hide_title=false" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yourshaxzod&theme=graywhite&hide_border=false" height="160" />
 </div>

@@ -4,7 +4,7 @@
   I build scalable back-end systems that automate processes and integrate seamlessly with modern infrastructure.
 </p>
 
-</hr>
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourshaxzod&show_icons=true&theme=graywhite&hide_title=false" height="160" />

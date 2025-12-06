@@ -7,5 +7,5 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourshaxzod&theme=graywhite&hide_border=false" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourshaxzod&theme=graywhite&hide_border=false" height="300" />
 </div>

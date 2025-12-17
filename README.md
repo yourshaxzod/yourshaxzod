@@ -15,7 +15,7 @@
 
 <div align="center">
   <img src="https://github-readme-stat-fawn.vercel.app/api?username=yourshaxzod&show_icons=true&theme=graywhite" height="160" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourshaxzod&theme=minimal" />
+  <img src="https://metrics.lecoq.io/yourshaxzod?template=classic&base.activity=1&base.community=1&base.repositories=1&config.timezone=Asia/Tashkent" />
 </div>
 
 ---

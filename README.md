@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shaxzod 👋</h1>
+<h1 align="center">Hi, I'm Shaxzod!</h1>
 
 <p align="center">
   <strong>Full-Stack Engineer · Backend-First · DevOps-Aware</strong><br>
@@ -7,7 +7,6 @@
 
 ---
 
-### 🚀 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,php,python,postgres,redis,docker,linux,nginx,git" />
 </p>

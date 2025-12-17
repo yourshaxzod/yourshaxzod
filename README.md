@@ -13,7 +13,6 @@
 
 ---
 
-### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stat-fawn.vercel.app/api?username=yourshaxzod&show_icons=true&theme=graywhite" height="160" />
   <img src="https://github-readme-stat-fawn.vercel.app/api/top-langs/?username=yourshaxzod&layout=compact&theme=graywhite" height="160" />

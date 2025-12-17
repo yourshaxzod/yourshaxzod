@@ -15,7 +15,7 @@
 
 <div align="center">
   <img src="https://github-readme-stat-fawn.vercel.app/api?username=yourshaxzod&show_icons=true&theme=graywhite" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourshaxzod&theme=graywhite" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=yourshaxzod" />
 </div>
 
 ---

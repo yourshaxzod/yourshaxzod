@@ -7,5 +7,5 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats-seven-jade-62.vercel.app?user=yourshaxzod&theme=graywhite&hide_border=false" height="800" />
+  <img src="https://github-readme-stat-eta-gilt.vercel.app?user=yourshaxzod&theme=graywhite&hide_border=false" height="800" />
 </div>

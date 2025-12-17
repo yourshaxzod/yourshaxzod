@@ -8,5 +8,4 @@
 
 <div align="center">
   <img src="https://github-readme-stat-fawn.vercel.app/api?username=yourshaxzod&show_icons=true&theme=graywhite&hide_title=false" height="160" />
-  <img src="https://github-readme-stat-fawn.vercel.app/api?username=yourshaxzod&theme=graywhite&hide_border=false" height="160" />
 </div>

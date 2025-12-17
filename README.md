@@ -18,8 +18,4 @@
   <img src="https://github-readme-stat-fawn.vercel.app/api/top-langs/?username=yourshaxzod&layout=compact&theme=graywhite" height="160" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=yourshaxzod&theme=graywhite&hide_border=true" height="160" />
-</div>
-
 ---

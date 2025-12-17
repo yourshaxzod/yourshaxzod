@@ -23,19 +23,3 @@
 </div>
 
 ---
-
-### 🧩 What I Focus On
-- Building **production-ready full-stack applications**
-- Writing **clean, maintainable backend logic**
-- Designing **APIs & databases**
-- Automating workflows with **Docker & Linux**
-- Learning **DevOps and Data Engineering fundamentals**
-
----
-
-### 🌍 Connect With Me
-<p align="center">
-  <a href="https://github.com/yourshaxzod">GitHub</a> ·
-  <a href="https://t.me/yourshaxzod">Telegram</a> ·
-  <a href="https://yourshaxzod.uz">Portfolio</a>
-</p>

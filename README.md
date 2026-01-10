@@ -10,5 +10,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,php,python,postgres,redis,docker,linux,nginx,git" />
 </p>
-
----
